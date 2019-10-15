@@ -7,11 +7,12 @@
 # github.com/jschlensok/djorak_linux
 # schlensok.org/keyboard
 
-keymaps 0-2,4-6,8-10,12
-include "linux-with-alt-and-altgr.inc"
+keymaps 0-2,4-6,8-9,12
+alt_is_meta
+include "linux-with-two-alt-keys.inc"
 strings as usual
 
-#             Normal           Shift            AltGr           Strg
+#             Normal           Shift            Alt           Strg
 
 # Row 0
 keycode   1 = Escape
