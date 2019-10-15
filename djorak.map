@@ -2,13 +2,9 @@ keymaps 0-2,4-6,8-9,12
 alt_is_meta
 include "linux-with-alt-and-altgr.inc"
 strings as usual
-! --------------------------------------------------------------------------
-! Row 1
-! --------------------------------------------------------------------------
+
 keycode   1 = Escape
-! --------------------------------------------------------------------------
-! Row 2
-! --------------------------------------------------------------------------
+
 keycode  41 = dollar         asciitilde
 keycode   2 = ampersand      percent
 keycode   3 = bracketleft    seven
@@ -23,9 +19,7 @@ keycode  11 = bracketright   six
 keycode  12 = exclam         eight
 keycode  13 = numbersign     tilde
 keycode  14 = Delete
-! --------------------------------------------------------------------------
-! Row 3
-! --------------------------------------------------------------------------
+
 keycode  15 = Tab
 keycode  16 = semicolon      colon
 keycode  17 = comma          less
@@ -40,9 +34,7 @@ keycode  25 = l
 keycode  26 = slash          question
 keycode  27 = at             asciicircum
 keycode  28 = Return
-! --------------------------------------------------------------------------
-! Row 4
-! --------------------------------------------------------------------------
+
 keycode  58 = Caps_Lock
 keycode  30 = a
 keycode  31 = o
@@ -56,9 +48,7 @@ keycode  38 = n
 keycode  39 = s
 keycode  40 = minus          underscore
 keycode  43 = backslash      bar
-! --------------------------------------------------------------------------
-! Row 5
-! --------------------------------------------------------------------------
+
 keycode  42 = Shift
 keycode  44 = apostrophe     quotedbl
 keycode  45 = q
@@ -71,9 +61,7 @@ keycode  51 = w
 keycode  52 = v
 keycode  53 = z
 keycode  54 = Shift
-! --------------------------------------------------------------------------
-! Row 6
-! --------------------------------------------------------------------------
+
 keycode  29 = Control
 keycode  56 = Alt
 keycode  57 = space
