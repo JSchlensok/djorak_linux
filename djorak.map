@@ -1,6 +1,6 @@
 keymaps 0-2,4-6,8-9,12
 alt_is_meta
-include "linux-with-alt-and-alt-gr.inc"
+include "linux-with-alt-and-altgr.inc"
 strings as usual
 ! --------------------------------------------------------------------------
 ! Row 1
