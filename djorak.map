@@ -7,12 +7,12 @@
 # github.com/jschlensok/djorak_linux
 # schlensok.org/keyboard
 
-keymaps 0-2,4-6,8-9,12
+keymaps 0-2,4-6,8-10,12
 alt_is_meta
-include "linux-with-two-alt-keys.inc"
+include "linux-with-alt-and-altgr.inc"
 strings as usual
 
-#             Normal           Shift            Alt           Strg
+#             Normal           Shift            AltGr           Strg
 
 # Row 0
 keycode   1 = Escape
@@ -21,8 +21,8 @@ keycode   1 = Escape
 keycode  41 = dollar		asciitilde		
 keycode   2 = ampersand		percent
 keycode   3 = bracketleft	one
-keycode   4 = braceleft		two
-keycode   5 = braceright	three
+keycode   4 = braceleft		two					quotedbl
+keycode   5 = braceright	three				apostrophe
 keycode   6 = parenleft		four
 keycode   7 = equal			five
 keycode   8 = asterisk		six
@@ -30,14 +30,14 @@ keycode   9 = parenright	seven
 keycode  10 = plus			eight
 keycode  11 = bracketright	nine
 keycode  12 = exclam		zero
-keycode  13 = numbersign	acute
+keycode  13 = numbersign	acute				grave
 keycode  14 = Delete
 
 # Row 2
 keycode  15 = Tab
-keycode  16 = colon
-keycode  17 = comma
-keycode  18 = period
+keycode  16 = colon 	     semicolon
+keycode  17 = comma          less
+keycode  18 = period         greater
 keycode  19 = p
 keycode  20 = y
 keycode  21 = f
@@ -45,8 +45,8 @@ keycode  22 = g
 keycode  23 = c
 keycode  24 = t
 keycode  25 = z
-keycode  26 = slash
-keycode  27 = at
+keycode  26 = slash          question				backslash
+keycode  27 = at             asciicircum			degree
 keycode  28 = Return
 
 # Row 3
@@ -66,7 +66,7 @@ keycode  43 = ü
 
 # Row 4
 keycode  42 = Shift
-keycode  86 = ä
+keycode  86 = ä									ssharp
 keycode  44 = ö
 keycode  45 = q
 keycode  46 = j
