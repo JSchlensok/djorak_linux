@@ -18,7 +18,7 @@ strings as usual
 keycode   1 = Escape
 #
 # Row 1
-keycode  41 = dollar			asciitilde		
+keycode  41 = dollar			asciitilde
 keycode   2 = ampersand			percent
 keycode   3 = bracketleft		one
 keycode   4 = braceleft			two					quotedbl
