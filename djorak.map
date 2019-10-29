@@ -18,3 +18,17 @@ strings as usual
 keycode   1 = Escape
 #
 # Row 1
+keycode  41 = dollar			asciitilde
+keycode   2 = ampersand			percent
+keycode   3 = bracketleft		one
+keycode   4 = braceleft			two					quotedbl
+keycode   5 = braceright		three				apostrophe
+keycode   6 = parenleft			four
+keycode   7 = equal				five
+keycode   8 = asterisk			six
+keycode   9 = parenright		seven
+keycode  10 = plus				eight
+keycode  11 = bracketright		nine
+keycode  12 = exclam			zero
+keycode  13 = numbersign		acute				grave
+keycode  14 = Delete
