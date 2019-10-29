@@ -11,3 +11,9 @@ keymaps 0-2,4-6,8-10,12
 alt_is_meta
 include "linux-with-alt-and-altgr.inc"
 strings as usual
+#
+#             Normal           Shift            AltGr           Strg
+#
+# Row 0
+keycode   1 = Escape
+#
