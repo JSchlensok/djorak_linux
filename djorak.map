@@ -2,10 +2,10 @@
 # "Djorak"
 # Developed by Julius R. Schlensok
 # <julius@schlensok.org>
-# <julius.schlensok@tum.de>
-# v1.0 10/5/2019
+# <julius.schlensok@{tum|campus.lmu}.de>
+# v1.4 10/29/2019
 # github.com/jschlensok/djorak_linux
-# schlensok.org/keyboard
+# schlensok.org/keyboard.html
 #
 keymaps 0-2,4-6,8-10,12
 alt_is_meta
