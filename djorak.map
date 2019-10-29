@@ -59,3 +59,25 @@ keycode  37 = r
 keycode  38 = n
 keycode  39 = s
 keycode  40 = l
+keycode  43 = udiaeresis Udiaeresis
+#
+# Row 4
+keycode  42 = Shift
+keycode  86 = adiaeresis Adiaeresis ssharp
+keycode  44 = odiaeresis Odiaeresis
+keycode  45 = q
+keycode  46 = j
+keycode  47 = k
+keycode  48 = x
+keycode  49 = b
+keycode  50 = m
+keycode  51 = w
+keycode  52 = v
+keycode  53 = minus          underscore
+keycode  54 = Shift
+#
+# Row 5
+keycode  29 = Control
+keycode  56 = Alt
+keycode  57 = space
+keycode  97 = Control
