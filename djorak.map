@@ -48,3 +48,14 @@ keycode  28 = Return
 #
 # Row 3
 keycode  58 = Caps_Lock
+keycode  30 = a
+keycode  31 = o
+keycode  32 = e
+keycode  33 = i
+keycode  34 = u
+keycode  35 = h
+keycode  36 = d
+keycode  37 = r
+keycode  38 = n
+keycode  39 = s
+keycode  40 = l
