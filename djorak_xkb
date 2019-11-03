@@ -1,0 +1,60 @@
+default
+xkb_symbols "basic" {
+    
+    include "de(basic)"
+
+    name[Group1]="German Dvorak Programmer";
+
+    key <TLDE> { [ dollar, asciitilde ] };
+    key <AE01> { [ ampersand, percent ] };
+    key <AE02> { [ bracketleft, 1 ] };
+    key <AE03> { [ braceleft, 2, quotedbl ] };
+    key <AE04> { [ braceright, 3, apostrophe ] };
+    key <AE05> { [ parenleft, 4 ] };
+    key <AE06> { [ equal, 5 ] };
+    key <AE07> { [ asterisk, 6 ] };
+    key <AE08> { [ parenright, 7 ] };
+    key <AE09> { [ plus, 8 ] };
+    key <AE10> { [ bracketright, 9 ] };
+    key <AE11> { [ exclam, 0 ] };
+    key <AE12> { [ numbersign, acute, grave ] };
+
+    key <AD01> { [ colon, semicolon ] };
+    key <AD02> { [ comma, less ] };
+    key <AD03> { [ period, greater ] };
+    key <AD04> { [ p, P ] };
+    key <AD05> { [ y, Y ] };
+    key <AD06> { [ f, F ] };
+    key <AD07> { [ g, G ] };
+    key <AD08> { [ c, C ] };
+    key <AD09> { [ t, T ] };
+    key <AD10> { [ z, Z ] };
+    key <AD11> { [ slash, question, backslash ] };
+    key <AD12> { [ at, asciicircum, degree ] };
+
+    key <AC01> { [ a, A ] };
+    key <AC02> { [ o, O ] };
+    key <AC03> { [ e, E ] };
+    key <AC04> { [ i, I ] };
+    key <AC05> { [ u, U ] };
+    key <AC06> { [ h, H ] };
+    key <AC07> { [ d, D ] };
+    key <AC08> { [ r, R ] };
+    key <AC09> { [ n, N ] };
+    key <AC10> { [ s, S ] };
+    key <AC11> { [ l, L ] };
+    key <BKSL> { [ udiaeresis, Udiaeresis, bar ] };
+
+    key <LSGT> { [ adiaeresis, Adiaeresis, ssharp ] };
+    key <AB01> { [ odiaeresis, Odiaeresis ] };
+    key <AB02> { [ q, Q ] };
+    key <AB03> { [ j, J ] };
+    key <AB04> { [ k, K ] };
+    key <AB05> { [ x, X ] };
+    key <AB06> { [ b, B ] };
+    key <AB07> { [ m, M ] };
+    key <AB08> { [ w, W ] };
+    key <AB09> { [ v, V ] };
+    key <AB10> { [ minus, underscore ] };
+
+};
