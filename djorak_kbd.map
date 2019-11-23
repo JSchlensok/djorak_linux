@@ -17,9 +17,9 @@ keycode   1 = Escape
 # Row 1
 keycode  41 = dollar			asciitilde
 keycode   2 = ampersand			percent
-keycode   3 = bracketleft		one
-keycode   4 = braceleft			two     quotedbl
-keycode   5 = braceright		three	apostrophe
+keycode   3 = bracketleft		one  quotedbl
+keycode   4 = braceleft			two     apostrophe
+keycode   5 = braceright		three
 keycode   6 = parenleft			four
 keycode   7 = equal			five
 keycode   8 = asterisk			six
